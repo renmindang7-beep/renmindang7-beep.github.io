@@ -42,7 +42,7 @@ google.com, pub-8425846974704220, DIRECT, f08c47fec0942fa0
 #admob end
 
 #pangle start
-OwnerDomain=yourcompany.com
+OwnerDomain=renmindang7-beep.github.io
 pangleglobal.com,5031806,DIRECT
 
 #opera
